@@ -1,0 +1,3 @@
+pyppeteer
+beautifulsoup4
+requests
